@@ -1,5 +1,5 @@
 # Discord Video Controls.
-JS-userscript. - Adding a control panel to the video (If Discord's native controls don't turn off the sound.).
+JS user-script. - Adding a control panel to the video (if Discord's native controls don't turn off the sound).
 
 1. Add a userscript extension to your browser.  
 For example: [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=ru)
